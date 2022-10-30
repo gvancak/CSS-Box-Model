@@ -1,0 +1,18 @@
+/* 1 Exercise  */
+
+h3{
+    border-bottom-style: solid;
+    display: inline-block;
+    margin-bottom: 50px;
+}
+
+ul{
+    
+    border-radius: 10px;
+    border:springgreen;
+    padding: 20px;
+    border-style: dashed;
+    background-color: pink;
+    display: inline-block;
+}
+
